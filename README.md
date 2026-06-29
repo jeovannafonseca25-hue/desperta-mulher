@@ -18,7 +18,7 @@ Antes da refatoração, o questionário de perguntas exibia todos os dados corri
 
 ---
 
-## 📐 Arquitetura e Destrinchamento de Código
+##  Arquitetura e Destrinchamento de Código
 
 Para seguir os princípios de responsabilidade única e modularização, o módulo foi totalmente desacoplado. O código saiu de um arquivo monolítico e foi dividido em 5 componentes especializados dentro do diretório `lib/Screens/quiz/`:
 
